@@ -1,5 +1,4 @@
-public class Main
-{
+public class Main {
     public static void main(String[] args) {
         int ticketPrice = 8794;
         int moneyForMile = 20;
